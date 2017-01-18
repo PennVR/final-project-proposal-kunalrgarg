@@ -1,4 +1,4 @@
-# final project proposal
+# Final Project Proposal
 
 # VR Space Exploration/UAV control
 
